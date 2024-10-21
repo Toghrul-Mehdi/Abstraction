@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\Abstractions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|c:\\users\\victus\\source\\repos\\abstractions\\abstractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|solutionrelative:abstractions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|c:\\users\\victus\\source\\repos\\abstractions\\abstractions\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|solutionrelative:abstractions\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|c:\\users\\victus\\source\\repos\\abstractions\\abstractions\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|solutionrelative:abstractions\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|c:\\users\\victus\\source\\repos\\abstractions\\abstractions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|solutionrelative:abstractions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|c:\\users\\victus\\source\\repos\\abstractions\\abstractions\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76241D82-BF77-4C00-8E80-E427A37348A0}|Abstractions\\Abstractions.csproj|solutionrelative:abstractions\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\Group.cs",
+              "RelativeDocumentMoniker": "Abstractions\\Group.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\Group.cs",
+              "RelativeToolTip": "Abstractions\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:34:50.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\Student.cs",
+              "RelativeDocumentMoniker": "Abstractions\\Student.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\Student.cs",
+              "RelativeToolTip": "Abstractions\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T21:26:00.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\User.cs",
+              "RelativeDocumentMoniker": "Abstractions\\User.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\User.cs",
+              "RelativeToolTip": "Abstractions\\User.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:41:20.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\IAccount.cs",
+              "RelativeDocumentMoniker": "Abstractions\\IAccount.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\IAccount.cs",
+              "RelativeToolTip": "Abstractions\\IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:38:15.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\Program.cs",
+              "RelativeDocumentMoniker": "Abstractions\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\Abstractions\\Abstractions\\Program.cs*",
+              "RelativeToolTip": "Abstractions\\Program.cs*",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAQwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:37:35.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
